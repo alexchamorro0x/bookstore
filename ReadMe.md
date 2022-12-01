@@ -8,7 +8,7 @@ This is a Simple MEAN Stack application for Book Store which performs all the CR
 <b>U</b> - Update the book details <br>
 <b>D</b> - Delete the book entries
 <br><br>
-This project is part of my 1 Month Industrial Training of MEAN Stack Development from <a href="https://webteklabs.com/">WebTek Labs, Delhi.</a>
+This project is part of my 1 Month Industrial Training of MEAN Stack Development.
 <br>
 
 ## Application Looks and Feel

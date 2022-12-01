@@ -12,7 +12,7 @@
         "test": "jest",
         "test:watch": "jest --watch"
     },
-    "author": "Yashita Namdeo",
+    "author": "Alex Chamorro",
     "license": "ISC",
     "devDependencies": {
         "faker": "^4.1.0",
